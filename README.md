@@ -36,7 +36,7 @@ There are two levels to this project. The second level is optional.
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
-  ![vine01.png](../Images/vine01.png)
+  <img width="573" alt="vine01" src="https://user-images.githubusercontent.com/94668201/172256574-e6956988-0385-476d-9a69-d4607442cea7.png">
 
 Amazon has several policies to reduce the bias of its Vine reviews: [https://www.amazon.com/gp/vine/help?ie=UTF8](https://www.amazon.com/gp/vine/help?ie=UTF8).
 
