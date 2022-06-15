@@ -36,21 +36,17 @@ There are two levels to this project. The second level is optional.
 ![image](https://user-images.githubusercontent.com/94668201/172257308-dd30d285-8cad-4cf4-a8ad-b7b422f57810.png)
 
 
-### Level 2
-
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
-  <img width="573" alt="vine01" src="https://user-images.githubusercontent.com/94668201/172256574-e6956988-0385-476d-9a69-d4607442cea7.png">
+  ![vine01.png](../Images/vine01.png)
 
 Amazon has several policies to reduce the bias of its Vine reviews: [https://www.amazon.com/gp/vine/help?ie=UTF8](https://www.amazon.com/gp/vine/help?ie=UTF8).
 
-But are the Vine reviews truly trustworthy? I was tasked to investigate whether Vine reviews are free of bias. I used either PySpark or SQL to analyze the data.
+But are Vine reviews truly trustworthy? My task would be to investigate whether Vine reviews are free of bias. Using either PySpark or—for an extra challenge—SQL to analyze the data.
 
-* If I choose to use SQL, first used Spark on Colab to extract and transform the data and loaded it into a SQL table on my RDS account. Performed my analysis with SQL queries on RDS.
+* If I choose to use SQL, first would of used Spark on Colab to extract and transform the data and load it into a SQL table on your RDS account. Performing my  analysis with SQL queries on RDS.
 
-* While there are no hard requirements for the analysis, I considered the steps to take to reduce noisy data, e.g., filtering for reviews that met a certain number of helpful votes, total votes, or both.
-
-* Submited a summary of my findings and analysis.
+* While there are no hard requirements for the analysis, would have had to consider my steps  to reduce noisy data, e.g., filtering for reviews that meet a certain number of helpful votes, total votes, or both.
 
 
 ## References
